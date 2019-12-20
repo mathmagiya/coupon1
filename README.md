@@ -5,3 +5,8 @@ Just create folder in your website's directory and put all files into. But previ
 user "couponer".
 
 Features:
+*Create coupons with certain sale. You can adjust coupon's value to your customer;
+*Output in pdf;
+*Check coupons;
+*Canscel coupons;
+*Canscel coupons;
