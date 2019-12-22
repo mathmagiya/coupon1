@@ -10,7 +10,10 @@ Features:<br/>
 *Check issued coupons;<br/>
 *Canscel coupons;<br/>
 *Statistics page. Observe: average value of <br/>
-<tab/>(i) all coupons;<br/> 
-<tab/>(ii) canced coupons;<br/>
-<tab/>(ii) valid coupons;<br/>
+(i) all coupons;<br/> 
+(ii) canced coupons;<br/>
+(ii) valid coupons;<br/>
 
+
+Make sure in your VPS are installed: PHP7 with PDO and mb_string extensions and tFPDF (for pdf output).
+Limints: coupons have a form: AAAA-000000.
